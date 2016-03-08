@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E7853C51F5A1510E56FDF0077D021F77477C9BF5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E8A5B8CD9E4E1AB28ED72B62F2E47308FD772539" : 0,
+    "E7853C51F5A1510E56FDF0077D021F77477C9BF5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3D78173F-A141-47CC-B8C5-980AC7E77757",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E8A5B8CD9E4E1AB28ED72B62F2E47308FD772539" : "",
+    "E7853C51F5A1510E56FDF0077D021F77477C9BF5" : "dictionnaireFR\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DictionnaireFr",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/DictionnaireFr\/DictionnaireFr.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/icarocamelo\/dictionnaireFR.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E7853C51F5A1510E56FDF0077D021F77477C9BF5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/urbz\/urbz.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E8A5B8CD9E4E1AB28ED72B62F2E47308FD772539"
+    }
+  ]
+}
